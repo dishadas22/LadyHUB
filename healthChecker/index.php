@@ -117,19 +117,19 @@
 
 
           <li class="nav-item">
-            <a class="nav-link active"  href="home.php">Home</a>
+            <a class="nav-link active"  href="../home.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="FindGroup.php">Event</a>
+            <a class="nav-link" href="../FindGroup.php">Event</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
+            <a class="nav-link" href="../ConsultWithDoctor.php">Consult</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="Blog.php">Security</a>
+            <a class="nav-link" aria-current="page" href="../Blog.php">Security</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="profile.php">Profile</a>
+            <a class="nav-link" href="../profile.php">Profile</a>
           </li>
           <!-- <li class="nav-item">
                                   <a class="nav-link" href="#testimonial">Testimonial</a>
